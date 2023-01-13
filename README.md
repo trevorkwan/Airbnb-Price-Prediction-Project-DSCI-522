@@ -1,6 +1,6 @@
 # AirBnB: How to price my new Vancouver AirBnB? 
 #### DSCI 522 Group 3
-#### By: Monique Wong, Polina Romanchenko, Trevor Kwan
+#### By: Trevor Kwan, Monique Wong, Polina Romanchenko
 
 ## About
 
