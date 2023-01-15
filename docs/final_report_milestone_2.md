@@ -116,7 +116,7 @@ variables.
 
 <div class="figure">
 
-<img src="output/neighborhoods.png" alt="Figure 1: Number of properties by nightly price and by neighborhood" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522/master/output/neighborhoods.png" alt="Figure 1: Number of properties by nightly price and by neighborhood" width="100%" height="100%" />
 
 <p class="caption">
 
