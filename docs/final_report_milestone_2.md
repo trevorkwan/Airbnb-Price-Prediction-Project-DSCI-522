@@ -149,11 +149,9 @@ almost consistently up to $
 
 <div class="figure">
 
-<img src="/home/airbnb_price/output/price_by_property_type.png" alt="Figure 3: Number of properties by price and property type" width="60%" height="60%" />
+<img src="https://raw.githubusercontent.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522/master/output/price_by_property_type.png" alt="Figure 3: Number of properties by price and property type" width="60%" height="60%" />
 
 <p class="caption">
-
-Figure 3: Number of properties by price and property type
 
 </p>
 
@@ -232,7 +230,7 @@ prices.
 
 <div class="figure">
 
-<img src="/home/airbnb_price/output/residual_plot.png" alt="Figure 4: Residuals by true price for linear regression model" width="60%" height="60%" />
+<img src="https://raw.githubusercontent.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522/master/output/residual_plot.png" alt="Figure 4: Residuals by true price for linear regression model" width="60%" height="60%" />
 
 <p class="caption">
 
