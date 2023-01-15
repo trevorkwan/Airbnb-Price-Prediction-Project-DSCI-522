@@ -3,8 +3,7 @@
 #### By: Trevor Kwan, Monique Wong, Polina Romanchenko
 
 ## About
-
-In this project, we build a predictive model to help new AirBnB hosts set the nightly price of their Vancouver AirBnB. Our predictive model predicts the market price of an AirBnb given the property, host and booking characteristics which we believe is given the the optimal price for both the host and AirBnB guests. 
+In this project, we build a predictive model to help new AirBnB hosts set the nightly price of their Vancouver AirBnB. Our predictive model predicts the market price of an AirBnb given the property, host, and booking characteristics which we believe gives the optimal price for both the host and AirBnB guests. 
 
 At this stage, we have trained a variety of machine learning models based on property-, host- and book-related characteristics of existing Vancouver AirBnBs. Examples of characteristics include property type, neighborhood, the number of people who can be accommodated, the ability to instant book the property, the booking's cancellation policy and the responsiveness of the host. 
 
