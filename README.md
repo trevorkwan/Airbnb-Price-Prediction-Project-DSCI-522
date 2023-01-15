@@ -13,7 +13,7 @@ Details about our dataset can be found [here](#dataset-source).
 
 
 ## Report
-The final report can be found [here](https://github.com/UBC-MDS/DSCI_522_Group_303/blob/master/docs/final_report_milestone_2.md).
+The final report can be found [here](https://github.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522/blob/master/docs/final_report_milestone_2.md).
 
 ## Usage
 There are two ways to reproduce this project. 
