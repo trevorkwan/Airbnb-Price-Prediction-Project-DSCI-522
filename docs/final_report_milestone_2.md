@@ -120,8 +120,6 @@ variables.
 
 <p class="caption">
 
-Figure 1: Number of properties by nightly price and by neighborhood
-
 </p>
 
 </div>
