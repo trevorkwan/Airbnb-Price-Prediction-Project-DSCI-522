@@ -116,7 +116,7 @@ variables.
 
 <div class="figure">
 
-<img src="/home/output/neighborhoods.png" alt="Figure 1: Number of properties by nightly price and by neighborhood" width="100%" height="100%" />
+<img src="output/neighborhoods.png" alt="Figure 1: Number of properties by nightly price and by neighborhood" width="100%" height="100%" />
 
 <p class="caption">
 
